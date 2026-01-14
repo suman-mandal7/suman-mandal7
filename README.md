@@ -26,6 +26,6 @@ I am a passionate learner dedicated to solving complex problems through technolo
 ---
 ### 📫 Connect with Me
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />](https://suman-mandal7.github.io/About-me/)
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](thirdpartyaccess783@gmail.com)
