@@ -9,11 +9,6 @@ I am a passionate learner dedicated to solving complex problems through technolo
 ### 🧐 About Me
 
 - 🔭 I’m currently working on **Myself**
-- 🌱 I’m currently on **College**
-- 👯 I’m looking to collaborate on **Type of Projects**
-- 💬 Ask me about **Subject of Expertise**
-
----
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Suman+Mandal" alt="Suman" />
@@ -22,6 +17,8 @@ I am a passionate learner dedicated to solving complex problems through technolo
     <img src="https://readme-typing-svg.demolab.com/?lines=A+student+at+Gour+Mahavidyalaya;%20Playing+chess;Always+trying+to+learn+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
+### 💻 Learning tools and technologies
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   <table align="center">
