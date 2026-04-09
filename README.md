@@ -20,7 +20,6 @@ I am a passionate learner dedicated to solving complex problems through technolo
 
 * **Languages:** C++.
 * **Frontend:** HTML, CSS, etc.
-* **Backend:** <div class="icon-loader-circle"></div>
 * **Tools:** VS Code
 
 ---
