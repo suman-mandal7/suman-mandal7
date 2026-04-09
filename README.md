@@ -1,5 +1,5 @@
 # Hi there, I'm Suman! 👋
-
+[![](https://github.com/suman-mandal7/suman-mandal7/blob/main/chat.svg)](https://x.com/Devil725Suman)
 ### A Computer science Student & Aspiring Naukri
 
 I am a passionate learner dedicated to solving complex problems through technology. Currently, I am focused on bridging the gap between academic theory and real-world application.
