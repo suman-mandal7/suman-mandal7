@@ -20,42 +20,44 @@ I am a passionate learner dedicated to solving complex problems through technolo
 
 ### 💻 Learning tools and technologies
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <table align="center">
+<div style="display: flex; justify-content: center;">
+  <table style="border-collapse: collapse;">
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="96" style="padding: 8px;">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-        <br>VS Code
+        <br><span style="font-size: 12px;">VS Code</span>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        <br>C++
+      <!-- ✅ FIXED SECOND COLUMN -->
+      <td align="center" width="96" style="padding: 8px;">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
+        <br><span style="font-size: 12px;">C++</span>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
+      <td align="center" width="96" style="padding: 8px;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
+        <br><span style="font-size: 12px;">GitHub</span>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="padding: 8px;">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-        <br>Git
+        <br><span style="font-size: 12px;">Git</span>
       </td>
     </tr>
     <tr>
-      <td align="center" width="96">
+      <td align="center" width="96" style="padding: 8px;">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
+        <br><span style="font-size: 12px;">HTML5</span>
       </td>
-      <td align="center" width="96">
+      <!-- ✅ SECOND COLUMN ROW 2 (CSS) - Already correct, no change needed -->
+      <td align="center" width="96" style="padding: 8px;">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-        <br>CSS
+        <br><span style="font-size: 12px;">CSS</span>
       </td>
-      <td align="center" width="96">
+      <td align="center" width="96" style="padding: 8px;">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-        <br>WordPress
+        <br><span style="font-size: 12px;">WordPress</span>
       </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
+      <td align="center" width="96" style="padding: 8px;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+        <br><span style="font-size: 12px;">JavaScript</span>
       </td>
     </tr>
   </table>
