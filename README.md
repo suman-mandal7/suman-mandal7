@@ -20,11 +20,6 @@ I am a passionate learner dedicated to solving complex problems through technolo
 
 ### 💻 Learning tools and technologies
 
-<!-- Second Column - FIXED -->
-<td align="center" width="96" style="padding: 8px;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-  <br><span style="font-size: 12px;">C++</span>
-</td>
 
 <div style="display: flex; justify-content: center;">
   <table style="border-collapse: collapse;">
