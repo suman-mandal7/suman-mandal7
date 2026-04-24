@@ -14,7 +14,7 @@ I am a passionate learner dedicated to solving complex problems through technolo
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Suman+Mandal" alt="Suman" />
   </a>
   <a href="https://github.com/ishandutta2007/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=A+student+at+Gour+Mahavidyalaya;%20Playing+chess;Always+trying+to+learn+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=A+student+at+Gour+Mahavidyalaya;%20Loves+open+source;Always+trying+to+learn+new+things&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
