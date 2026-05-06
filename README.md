@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cavesat&size=30&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Hi+there%2C+I'm+Suman!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Honk&size=40&pause=1000&center=true&vCenter=true&width=435&height=100&lines=Hi+there%2C+I'm+Suman!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 [![](https://github.com/suman-mandal7/suman-mandal7/blob/main/chat.svg)](https://x.com/Devil725Suman)
 ### A Computer science Student & Aspiring Naukri
 
